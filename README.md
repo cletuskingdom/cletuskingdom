@@ -32,4 +32,4 @@ src="https://img.shields.io/github/followers/oladips772?logo=github&style=for-th
 
 ### Badges
 
-<a href="http://www.github.com/oladips772"><img src="https://github-readme-stats.vercel.app/api?username=oladips772&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oladips772's GitHub stats" /></a>
+<a href="http://www.github.com/cletuskingdom"><img src="https://github-readme-stats.vercel.app/api?username=cletuskingdom&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cletuskingdom's GitHub stats" /></a>
