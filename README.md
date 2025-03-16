@@ -65,7 +65,7 @@ I'm a **Senior Software Engineer** with more than **6 years** of experience in b
   </a>
 </p>
 
-[![Hire Me](https://img.shields.io/badge/-Hire%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cletuskingdom/)
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-blue?style=for-the-badge&logo=whatsapp)](https://wa.me/2347063964065)
 
 ---
 
