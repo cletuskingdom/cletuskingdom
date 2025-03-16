@@ -1,34 +1,86 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cletus Kingdom
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> I'm Cletus Kingdom
 
-## I'm a Senior Software Web Developer (Laravel, Nodejs)
+## 🚀 Senior Software Engineer (Laravel, Node.js, Next.js)
 
-A Senior Software Engineer with more than 4 years of experience in creating long-term software solutions using modern web technologies. His focus is on back-end development, particularly in Laravel and NodeJS, which are powerful tools for building server-side web systems.
+I'm a **Senior Software Engineer** with more than **6 years** of experience in building long-term software solutions using modern web technologies. I specialize in **backend development** with **Laravel and Node.js**, while leveraging **Next.js** for frontend applications. Passionate about **automation, fintech solutions, and scalable architectures**.
 
--   🌍 I'm based in Nigeria
--   🧠 I'm learning VueJS
--   🤝 I'm open to collaborating on fintech app
+-   🌍 Based in **Nigeria**
+-   🧠 Currently learning **React Native**
+-   🤝 Open to collaborating on **fintech and automation projects**
 
-<a href="https://www.github.com/cletuskingdom" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/cletuskingdom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/cletuskingdom" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/cletuskingdom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-### Skills
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### **Database & APIs**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+✅ **RESTful & GraphQL APIs**
+
+---
+
+## 📈 GitHub Stats
+
+<a href="http://www.github.com/cletuskingdom">
+  <img src="https://github-readme-stats.vercel.app/api?username=cletuskingdom&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="cletuskingdom's GitHub stats" />
+</a>
+
+<a href="https://github.com/cletuskingdom">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cletuskingdom&theme=dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/cletuskingdom">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cletuskingdom&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=cletuskingdom&theme=github-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cletuskingdom&color=blue)
+
+---
+
+## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flearncybers.com%2Fwp-content%2Fuploads%2F2019%2F09%2Fexpress-js-1.jpeg&f=1&nofb=1&ipt=ba0df68d82b93e2d08f8c151482f750b773b60ce17b4daa8e35f0efbcd0e88ea&ipo=images" width="80" height="36" alt="Express" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://www.linkedin.com/in/cletuskingdom/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/cletuskingdom/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
 </p>
 
-### Socials
+[![Hire Me](https://img.shields.io/badge/-Hire%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cletuskingdom/)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/cletuskingdom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/cletuskingdom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+---
 
-### Badges
+## 🚀 What I'm Working On
 
-<a href="http://www.github.com/cletuskingdom"><img src="https://github-readme-stats.vercel.app/api?username=cletuskingdom&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cletuskingdom's GitHub stats" /></a>
+-   🏦 **Building a fintech API** using Laravel & Node.js
+-   🎨 **Exploring React Native** for frontend interactivity
+-   🤖 **Developing an automation tool** to streamline workflows
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=cletuskingdom&theme=onedark)
+
+---
+
+🔥 Always open to new opportunities, collaborations, and exciting projects! Let's connect and build something amazing. 💡
